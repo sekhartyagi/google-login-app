@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "79709915224",
+    "project_id": "login-app-305f1",
+    "storage_bucket": "login-app-305f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79709915224:android:06783b6a5a2cef0625e22d",
+        "android_client_info": {
+          "package_name": "com.sekhartyagi.googleloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79709915224-m5gonkvpgdnf33c0b5rj896bitcs2sj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sekhartyagi.googleloginapp",
+            "certificate_hash": "e0eee68ef5d6caaaee18f779d42ea682a83aeff3"
+          }
+        },
+        {
+          "client_id": "79709915224-k5p1l4tjfmc447ukh19tpeuohl2ta7ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhyngHm4e0bx12c5q_tLn_MFrt-Vr1PwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79709915224-k5p1l4tjfmc447ukh19tpeuohl2ta7ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
